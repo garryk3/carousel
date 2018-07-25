@@ -1,0 +1,2 @@
+# carousel
+react, slider, simple

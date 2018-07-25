@@ -1,0 +1,15 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "slider component for React",
+  "main": "index.js",
+  "repository": "https://github.com/garryk3/carousel.git",
+  "author": "garryk3",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-swipeable": "^4.3.0"
+  }
+}
